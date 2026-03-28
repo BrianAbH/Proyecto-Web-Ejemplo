@@ -4,3 +4,4 @@ Ejemplo comandos git
 ## Cambios Recientes
 - Creado `index.html`: Página de tienda básica con productos de ejemplo.
 - Creado `styles.css`: Estilos minimalistas para la página (fondo blanco, texto negro, diseño simple).
+- Mejorado `styles.css`: Diseño responsivo, efectos hover, sombras sutiles, tipografía mejorada, layout con grid, animaciones de entrada (fade-in y slide-up), transiciones suaves, mejor accesibilidad con estados focus, y scroll suave.
