@@ -114,12 +114,15 @@ button:focus {
 
 footer {
     text-align: center;
-    padding: 20px;
-    background-color: #fff;
     border-top: 1px solid #e0e0e0;
     color: #666;
     animation: fadeIn 1s ease-in 0.5s;
     animation-fill-mode: both;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: white;
 }
 
 /* Animations */
